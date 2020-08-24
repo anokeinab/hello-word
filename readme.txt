@@ -1,1 +1,1 @@
-Git Challenges
+Git Challenges is boring
